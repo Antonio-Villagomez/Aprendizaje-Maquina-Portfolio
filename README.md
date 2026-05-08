@@ -18,7 +18,7 @@ Este repositorio contiene una colección de proyectos prácticos de Machine Lear
 Implementación de modelos para predecir categorías discretas.
 * **Proyectos:** Prediccion de costo habitacional en California.
 * **Algoritmos:** LinearRegression, MLPRegressor, KNeighborsRegressor, RandomForestRegressor.
-* **Métricas:** F1-Score, Matriz de Confusión, Curva ROC.
+* **Métricas:** MSE, r2 score.
 
 ### 2. Clasificación 
 Implementación de modelos para predecir categorías discretas.
