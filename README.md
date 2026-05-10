@@ -5,14 +5,14 @@ Este repositorio contiene una colección de proyectos prácticos de Machine Lear
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 * **Language:** Python 3.10+
 * **Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
 * **Environments:** Jupyter Notebooks, Linux (Ubuntu/Debian).
 
 ---
 
-## 📂 Contenido del Repositorio
+## Contenido del Repositorio
 
 ### 1. Regresión
 Implementación de modelos para predecir categorías discretas.
@@ -25,19 +25,17 @@ Implementación de modelos para predecir categorías discretas.
 Modelado de variables continuas para pronósticos y tendencias.
 * **Proyectos:** [Ej. Predicción de demanda de inventarios].
 * **Algoritmos:** Linear Regression, Lasso, Ridge, XGBoost.
-* **Teoría:** Optimización de la función de costo mediante:
-  $$J(\theta) = \frac{1}{2m} \sum_{i=1}^{m} (h_\theta(x^{(i)}) - y^{(i)})^2$$
-  * **Métricas:** F1-Score, Matriz de Confusión, Curva ROC.
+* **Métricas:** F1-Score, Matriz de Confusión, Curva ROC.
 
 
-### 3. Agrupación (Clustering) 🧩
+### 3. Agrupación (Clustering)
 Segmentación de datos no etiquetados para identificar patrones ocultos.
 * **Proyectos:** Segmentación de clientes / Análisis de rendimiento deportivo.
-* **Algoritmos:** K-Means, DBSCAN, Hierarchical Clustering.
+* **Algoritmos:** K-Means, DBSCAN, SpectralClustering, Birch, AgglomerativeClustering.
 
 ### 4. Reducción de Dimensionalidad 📉
 Optimización de conjuntos de datos de alta complejidad.
-* **Técnicas:** PCA (Principal Component Analysis), t-SNE.
+* **Técnicas:** PCA (Principal Component Analysis), t-SNE, GaussianRandomProjection, FastlCa.
 * **Objetivo:** Maximizar la varianza explicada reduciendo el ruido computacional.
 
 ---
