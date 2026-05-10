@@ -33,14 +33,14 @@ Segmentación de datos no etiquetados para identificar patrones ocultos.
 * **Proyectos:** Segmentación de clientes / Análisis de rendimiento deportivo.
 * **Algoritmos:** K-Means, DBSCAN, SpectralClustering, Birch, AgglomerativeClustering.
 
-### 4. Reducción de Dimensionalidad 📉
+### 4. Reducción de Dimensionalidad 
 Optimización de conjuntos de datos de alta complejidad.
 * **Técnicas:** PCA (Principal Component Analysis), t-SNE, GaussianRandomProjection, FastlCa.
 * **Objetivo:** Maximizar la varianza explicada reduciendo el ruido computacional.
 
 ---
 
-## 🚀 Cómo ejecutar los proyectos
+## Cómo ejecutar los proyectos
 1. Clona el repositorio:
    `git clone https://github.com/tu-usuario/machine-learning-portfolio.git`
 2. Instala las dependencias:
